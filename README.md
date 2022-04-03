@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TurgayTurk
+- 👋 Hi, I’m Turgay Turk
 - 👀 I’m interested in Coding (C#), Movies, Aviation, F#1 and everything what makes fun ;)
 - 🌱 I’m currently learning ASP.NetCore
 - 💞️ I’m looking to collaborate on Blazor projects.
