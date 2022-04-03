@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Turgay Turk
-- 👀 I’m interested in Coding (C#), Movies, Aviation, F#1 and everything what makes fun ;)
+- 👋 Hi, I’m Turgay
+- 👀 I’m interested in programming (C#), Movies, Aviation, F#1 and anything fun ;)
 - 🌱 I’m currently learning ASP.NetCore
-- 💞️ I’m looking to collaborate on Blazor projects.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on MudBlazor projects.
+- 📫 Feel free to email me at t.turk@gmx.de
 
 <!---
 TurgayTurk/TurgayTurk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
