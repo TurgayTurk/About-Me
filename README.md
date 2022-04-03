@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming (C#), Movies, Aviation, F#1 and anything fun ;)
 - 🌱 I’m currently learning ASP.NetCore
 - 💞️ I’m looking to collaborate on MudBlazor projects.
-- 📫 Feel free to email me at t.turk@gmx.de
+- 📫 Feel free to email me...
 
 <!---
 TurgayTurk/TurgayTurk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
