@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Turgay
-- 👀 I’m interested in programming (C#), Movies, Aviation, F#1 and anything fun ;)
-- 🌱 I’m currently learning ASP.NetCore
+- 👀 I’m interested in programming (C#), Aviation, Movies, F#1 and anything fun ;)
+- 🌱 I’m developing Web applications in .Net
 - 💞️ I’m looking to collaborate on MudBlazor projects.
 - 📫 Feel free to email me...
 
